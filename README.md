@@ -36,5 +36,5 @@ typ 3 = 4 HP
 |   3 |         120 peněz |
 |   4 |   500 + wave * 20 |
 
-# CÍL HRY
+## CÍL HRY
 * přežít co nejdéle :)
