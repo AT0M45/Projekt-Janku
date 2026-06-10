@@ -28,7 +28,7 @@ typ 3 = 4 HP
 ...
 
 
-* Odměny za zabití:
+Odměny za zabití:
 | Typ |  Odměna za zabití |
 | ----| ----------------- |
 |   1 |          40 peněz |
